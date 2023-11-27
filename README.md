@@ -8,4 +8,4 @@ Cucumber: automação de testes em linguagem natural para colaboração entre eq
 ## Publicação
 [https://github.com/antoniioCarvalho/Conta_Bancaria/tree/main/BDD]
 
-## Última atualização 05/09/23
+## Última atualização 27/11/2023
