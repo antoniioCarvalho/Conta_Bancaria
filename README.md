@@ -6,6 +6,6 @@ Cucumber: automação de testes em linguagem natural para colaboração entre eq
 ![Funcionamento](cucumber.png)
 
 ## Publicação
-[https://github.com/antoniocCarvalho/CalculadoraTQS]
+[https://github.com/antoniioCarvalho/Conta_Bancaria/tree/main/BDD]
 
 ## Última atualização 05/09/23
